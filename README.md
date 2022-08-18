@@ -1,2 +1,2 @@
 # research
-Repository for Whitecliffe Software Development Fundamentals Assignments
+Repository for my own code
