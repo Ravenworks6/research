@@ -28,8 +28,10 @@ I do not have a personal learning strategy.
 Get clear directions around navigating the Student Hub.
 
 ## What is Python?
-Python is an open source 
+Python is an open source high-level, interpreted, general-purpose programming language that can be used for a wide variety of applications. Some typical uses is for AI & machine learning, data analytics, web development, search engine optimisation (SEO), blockchain, game development, automation.
+
 ## Have you developed a habit of exploring?
+Yes my nature is to be very curious of the world around me.  Whether is be how something works or where someone comes from. I often like to dig further then is what on the surface of something - sometimes to my detriment. Once I had a hair in a second-hand camera lens I brought for my camera and decided to take it apart too see if I could remove it and the lens literally blew up in my face and I couldnt put it back together again.  So a habit of exploring is good but know when to stop before it becomes a bad thing.
 
 ## Have you meditated before?
 
