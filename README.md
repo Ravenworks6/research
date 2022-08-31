@@ -14,5 +14,5 @@ The user is to input a question they wanna ask the Magic 8 Ball and the program 
 https://github.com/Ravenworks6/research/blob/06081a8044f7f7bb22ee3795627782713018ce7a/code/magic_8_ball.py
 
 ## Wheel of Names
-I wanted to use the import random module to pick a name from a list that is typed in by the user.  The winner gets a point or could just use it as to decide who is the winner between my kids.  I wanted to put this on a wheel similar to this example eventually https://wheelofnames.com/
+This program has inspired me to try and recreate it https://wheelofnames.com/ But first to try and code it. I wanted to use the import random module somehow to pick a name from a list that is inputed by the user and have the program select a random name as the winner.
 
