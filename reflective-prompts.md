@@ -34,16 +34,22 @@ Python is an open source high-level, interpreted, general-purpose programming la
 Yes my nature is to be very curious of the world around me.  Whether is be how something works or where someone comes from. I often like to dig further then is what on the surface of something - sometimes to my detriment. Once I had a hair in a second-hand camera lens I brought for my camera and decided to take it apart too see if I could remove it and the lens literally blew up in my face and I couldnt put it back together again.  So a habit of exploring is good but know when to stop before it becomes a bad thing.
 
 ## Have you meditated before?
+Yes.  So I dont turn into a crazy person. Meditations I do are more Mindful Meditations. When I feel overwhelmed it is good to take a break and concentrate on breathing in the moment.
 
 ## Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
+Cant say that I have. Whats the saying? "Jack of All Trades, Master of None"
 
 ## Do you consider yourself a developer yet?
+Maybe a 50% developer. To me a developer is creating on the computer.  Being a graphic designer Im halfway there but am lacking in the other side of developing....the coding.
 
 ## Do you value creativity? As a value itself? What about as a tool for learning to think logically?
+Yes.  I know many artists and have been immersed in art most of my life.  Being surounded by creative people even if some things they create dont make logical sense it is still holds valuable lessons. Im still trying to figure out the connection between creativity and logical thinking.  Romans lessons are bridging that gap.
 
 ## How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
+5 Tabs in the browser on the computer and it is all study related.  65 tabs open on my mobile phone and they are all distractions but informative ones.
 
 ## Have you had a fight response to technology? What does it feel like? How did you overcome this?
+No I do not yet have a fight response but Im guessing the older I get the more fighty I get with tech that I dont understand.
 
 ## What is an IDE?
 
