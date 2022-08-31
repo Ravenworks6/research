@@ -1,7 +1,7 @@
 # Ravenworks Code
 Repository for my own code and code that inspires or confounds me.
 
-## This is the Python Library link. 
+## This is the Python Library link for my 
 https://docs.python.org/3/library/intro.html
 
 ## Hello World
