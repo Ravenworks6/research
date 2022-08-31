@@ -1,4 +1,4 @@
-# Random Name Picker
+# Random Name Picker for Wheel of Names
 
 from random import randint
 
