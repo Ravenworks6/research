@@ -1,4 +1,4 @@
-#calculate a dogs age in human years
+#Calculate a dogs age in human years
 
 #get dogs age
 age = int(input("Enter dog's age in human years: "))
