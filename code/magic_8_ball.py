@@ -1,3 +1,5 @@
+#Magic 8 Ball
+
 import random
 
 def magic8ball():
