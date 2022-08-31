@@ -2,7 +2,7 @@
 Yes I do take regular breaks but not breaks where you would relax but breaks to sort kids, make meals, do the housework, answer calls, txt's and work.
 
 ## What is Timeboxing? Have you heard of it before? Will you use it?
-Timeboxing is a term from Agile software development in with a task is completed within a predefined time. The deadline is non-negotiable.  It is designed to eliminate procrastination and perfectionism which can lead to late delivery. As a result this improves productivity.
+Timeboxing is a term from Agile software development in which a task is completed within a predefined time. The deadline is non-negotiable.  It is designed to eliminate procrastination and perfectionism which can lead to late delivery. As a result this improves productivity.
 
 Steps to practice timeboxing
 1. Decide on the task to be completed.
