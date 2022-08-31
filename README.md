@@ -1,7 +1,7 @@
 # Ravenworks Code
 Repository for my own code and code that inspires or confounds me.
 
-## This is the Python Library link for my 
+## This is the Python Library link for my reference which I will most likely use quite often as I learn to code in python.
 https://docs.python.org/3/library/intro.html
 
 ## Hello World
@@ -17,5 +17,5 @@ The user is to input a question they wanna ask the Magic 8 Ball and the program 
 https://github.com/Ravenworks6/research/blob/06081a8044f7f7bb22ee3795627782713018ce7a/code/magic_8_ball.py
 
 ## Wheel of Names
-This program has inspired me to try and recreate it https://wheelofnames.com/ But first to try and code it. I wanted to use the import random module somehow to pick a name from a list that is inputed by the user and have the program select a random name as the winner.
+This program in the link has inspired me to try and recreate it https://wheelofnames.com/ But first I need to try and code it. I wanted to use the import random module somehow to pick a name from a list that is inputed by the user and have the program select a random name as the winner.
 
