@@ -100,10 +100,13 @@ A Python variable is a reserved memory location to store values. = is a variable
 php, html, java are programmes Im interested in learning because of their website development value but Ive recently become interested in python because of its range of versitility.
 
 ## What is something kind that someone has done for you?
+My husband is supporting my studying.
 
 ## If you were describing programming to someone who knows nothing about it, what would you say?
+Programs is a set of instructions to perform a specific task.
 
 ## Which parts of this course made you feel doubtful of your own innate ability?
+Programming.
 
 ## What is a fixed mindset?
 
