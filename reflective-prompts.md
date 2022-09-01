@@ -64,13 +64,16 @@ One block way syncing with the group but once we all got to know each other a bi
 Figuring out the dashboard and where we are supposed to be in the reading module as oppossed to the lectures.
 
 ## What is OOP?
-
+Object-oriented Programming is a programming model that organizes software design around data or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behaviour. OOP focuses on objects that developers want to manipulate instead of the logic required to manipulate them. It is suited for programs that are large, complex and actively updated or maintained. This includes programs for manufacturing and design as well as mobile applications. There are 4 main principles of OOP encapsulation, abstraction, inheritance and polymorphism.
 
 ## Are you using the canvas content? Do you find it helpful or tedious?
+Yes I do find it really helpful but am really behind in the reading.  After a long period I sometimes turn on speech and highlight the paragraphs i want the computer to dictate but I need to find a better voice to listen to as the default one is very annoying.
 
 ## Which parts of the work did you find tedious?
+There is alot of reading so that gets a bit tedious.  It would be good to break it up with slides to read and maybe have a quiz at the end so you know if you understand it properly.
 
 ## What is polymorphism?
+Objects are designed to share behaviors and they can take on more than one form. The program determines which meaning or usage is necessary for each execution of that object from a parent class, reducing the need to duplicate code. A child class is then created, which extends the functionality of the parent class. Polymorphism allows different types of objects to pass through the same interface.
 
 ## Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
 
