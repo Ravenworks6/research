@@ -52,8 +52,11 @@ Yes.  I know many artists and have been immersed in art most of my life.  Being 
 No I do not yet have a fight response but Im guessing the older I get the more fighty I get with tech that I dont understand.
 
 ## What is an IDE?
+IDE - Integrated Development Environment which is software for building applications that combines developer tools into a single Graphical User Interface (GUI). An IDE consists of source code editor, local build automation and debugger.  It helps developers to start programming new applications quickly saving time through not having to configure and intergrate multiple utilities because it is all on the same workbench. Most IDE's save time with intelligent code completion and automated code generation which removes the need to type out full character sequences. IDE's parse code as it is written so bugs are identified in real-time. Developers can execute actions without switching applications and has syntax highlighting in to distinguish grammar in the text editor.
 
 ## What did you learn out of the Marshmallow Challenge?
+
+
 
 ## Did you have any blocks during this challenge? How did you overcome them?
 
