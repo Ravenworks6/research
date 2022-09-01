@@ -76,21 +76,28 @@ There is alot of reading so that gets a bit tedious.  It would be good to break 
 Objects are designed to share behaviors and they can take on more than one form. The program determines which meaning or usage is necessary for each execution of that object from a parent class, reducing the need to duplicate code. A child class is then created, which extends the functionality of the parent class. Polymorphism allows different types of objects to pass through the same interface.
 
 ## Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
-Yes. Im not going to survive the presentation part of the assessment. 10 minutes is a loooong time to talk. I do believe it as last time I tried to do group speaking I could only hear my heart beating, my mind went blank and I ran away.
+Yes. Im not going to survive the presentation part of the assessment. 10 minutes is a loooong time to talk. I do believe it as last time I tried to do group speaking I could only hear my heart beating in my head, my mind went blank and I ran away.
 
 ## What is an MVP? How would you describe it to a group of 6 year olds?
+An MVP stands for Minimum Viable Product. It is a product with features that interest customers enough to validate the product idea without having to have a finished sample of the product.
 
 ## What is the hardest problem you have solved so far?
+Finding my way around the learning dashboard and finding a balance of time allocated between personal and studying.
 
 ## What is pair programming?
+Pair programming is an Agile software development technique in which two programmers work together on one computer to design, code and test.
 
 ## What are you looking forward to learning about programming?
+Im looking forward to learning how to programme objects and making websites
 
 ## What is conscious listening?
+Conscious listening is being present during a conversation given them attention and acknowlegement to show you are listening without interrupting, judging, refuting or discounting.
 
 ## What is a variable?
+A Python variable is a reserved memory location to store values. = is a variable eg. one = 1, one is the variable name and the value is 1
 
 ## What programming languages are you interested in learning? Why?
+php, html, java are programmes Im interested in learning because of their website development value but Ive recently become interested in python because of its range of versitility.
 
 ## What is something kind that someone has done for you?
 
