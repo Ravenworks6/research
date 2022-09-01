@@ -1,5 +1,20 @@
 # Ravenworks Code
-Repository for my own code and code that inspires or confounds me.
+Repository for my own code and code that inspires or confounds me or code Im interested in.
+
+### What is Scratch?
+Scratch is a free coding community developed by MIT. Mostly used by children for learning coding language using a simple visual interface it allows users to create digital stories, games, and animations.
+
+Scratch promotes computational thinking and problem solving skills; creative teaching and learning; self-expression and collaboration; and equity in computing.
+
+Visual programming is a programming language which allows the user to create a program using visual blocks. Scratch is an example of this.
+
+Below is a scratch that I made.  It is still in development.
+https://scratch.mit.edu/projects/722777555
+
+## Programming Principals
+KISS - Keep It Simple Stupid
+DRY - Write Dry Code
+YAGNI - You Aint Gonna Need It
 
 ## This is the Python Library link for my reference which I will most likely use quite often as I learn to code in python.
 https://docs.python.org/3/library/intro.html
