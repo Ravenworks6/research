@@ -33,4 +33,4 @@ https://github.com/Ravenworks6/research/blob/06081a8044f7f7bb22ee379562778271301
 
 ## Wheel of Names
 This program in the link has inspired me to try and recreate it https://wheelofnames.com/ But first I need to try and code it. I wanted to use the import random module somehow to pick a name from a list that is inputed by the user and have the program select a random name as the winner. How to translate that to display in graphics is still a mystery to me. 
-
+https://github.com/Ravenworks6/research/blob/main/code/random_name_picker.py
