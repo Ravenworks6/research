@@ -76,6 +76,7 @@ There is alot of reading so that gets a bit tedious.  It would be good to break 
 Objects are designed to share behaviors and they can take on more than one form. The program determines which meaning or usage is necessary for each execution of that object from a parent class, reducing the need to duplicate code. A child class is then created, which extends the functionality of the parent class. Polymorphism allows different types of objects to pass through the same interface.
 
 ## Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
+Yes. Im not going to survive the presentation part of the assessment. 10 minutes is a loooong time to talk. I do believe it as last time I tried to do group speaking I could only hear my heart beating, my mind went blank and I ran away.
 
 ## What is an MVP? How would you describe it to a group of 6 year olds?
 
