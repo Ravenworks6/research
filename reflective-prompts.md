@@ -109,13 +109,16 @@ Programs is a set of instructions to perform a specific task.
 Programming.
 
 ## What is a fixed mindset?
+A fixed mindset describes people who believe qualities such as intelligence, talent etc are unchangeable. eg. If you are not good at something then you think you will never be good at it. 
 
 ## What is something kind you have done for someone else?
+I helped people understand the student hub.
 
 ## Have you done mindfulness or attention training before?
+Mindfulness breaks. Everyday I take time to breathe and listen to my mindfulness meditation app on my mobile.
 
 ## Have you developed a habit of persevering?
-
+ Yes Im single minded to the point of self destruction. A trait that I passed onto my kids which can sometimes be so painful.
 
 
 
